@@ -1,6 +1,4 @@
 /*******************************************************************/
-/* Chuntao Fu                                                      */
-/* Last Modified: 04/12/2015                                       */
 /* This program is a program that similates the deadlock detections*/
 /* with limited numbers of total process and limited numbers of    */
 /* types of resources. Eeach type of resource will only have one   */
